@@ -9,4 +9,8 @@ class DataStructure{
     {
         return $this->height * $this->lenght;
     }
+    public function getAreaOfCircle()
+    {
+        return "area of circle";
+    }
 }
