@@ -18,3 +18,9 @@ function mul()
     $num2 = 20;
     return $num * $num2;
 }
+
+function sqare()
+{
+    $num = 10;
+    return $num * $num;
+}
